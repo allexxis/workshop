@@ -1,0 +1,16 @@
+{
+  "name": "employees",
+  "version": "1.0.0",
+  "description": "API para obtener empleados de una base de datos",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "API"
+  ],
+  "author": "Alexis Gonzalez Valenciano",
+  "license": "MIT"
+}
